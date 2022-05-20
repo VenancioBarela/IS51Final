@@ -1,12 +1,15 @@
 """
 PLAIN ENGLISH
-get list of grades from txt.file (open in read mode (r))
-initalize counter to 0
-capture variable (test scores) from list of grades (float)
-input grade
-calculate number of tests to be graded
-append grade scores to avg list
-calculate average grade for the class
+This program uses data from a txt file to calculate the 
+number of tests, the average test score and percent of 
+grades above average
+we first open the txt file and get list of grades 
+we must set the counter to 0
+capture  the data from the list 
+(test scores and create float)
+determine the number of tests to be graded
+add graded scores to the sum list and divide by number
+of test to determine avg
 determine percent of grades that are above average
 (print) output grade information to user
 END
