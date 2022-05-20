@@ -14,7 +14,17 @@ END
 
 """
 
-
+initialize count to 0
+initialize avg to 0
+get list from txt.file (open in read(r))
+input first grade 
+add grade to total
+plus one to counter
+if counter is not = 0
+determine average (total / count)
+print sum of grades
+print the average
+print the percent above average 
 
 
 """
